@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300;400;700&display=swap');
+@import url('navMenu.css');
+@import url('card.css');
+@import url('button.css');
+@import url('form.css');
+@import url('dashboard.css');
+@import url('table.css');
+@import url('modal.css');
+
+body {
+  background-color: #EFF0F4 !important;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: none;
+}
